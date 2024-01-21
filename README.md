@@ -23,3 +23,9 @@ What are the learning outcomes of this exhibit?
 ______________
 
 World Creator Questions
+
+1. What is the name of the world? What do you call the inhabitants?
+2. What are defining features/themes of the world?
+3. Are there significant cultural artifacts?
+4. What are the rules and motivations of the worlds inhabitants?
+5. What does your world struggle with? What had your world done right?
