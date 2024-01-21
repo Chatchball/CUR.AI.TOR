@@ -1,7 +1,17 @@
 Cur.AI.tor is an AI powered curator bot that designs museums about the worlds you create
 
 To use Cur.AI.tor for your world visit > eden.art /charater /exhibit_bot
+Answer the world builder questions to get started!
 Use the propmt in this repo to produce a exquisite exhibit for your world 
+
+World Creator Questions
+
+1. What is the name of the world? What do you call the inhabitants?
+2. What are defining features/themes of the world?
+3. Are there significant cultural artifacts?
+4. What are the rules and motivations of the worlds inhabitants?
+5. What does your world struggle with? What had your world done right?
+______________________________________________________________________
 
 /prompt
 
@@ -22,10 +32,4 @@ Describe the way that the world around the museum looks for each of these exhibi
 What are the learning outcomes of this exhibit?
 ______________
 
-World Creator Questions
 
-1. What is the name of the world? What do you call the inhabitants?
-2. What are defining features/themes of the world?
-3. Are there significant cultural artifacts?
-4. What are the rules and motivations of the worlds inhabitants?
-5. What does your world struggle with? What had your world done right?
