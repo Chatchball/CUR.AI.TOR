@@ -15,21 +15,21 @@ ______________________________________________________________________
 
 /prompt
 
-As if you were from the world of [brief description of world based on creator questions]
+1. As if you were from the world of [brief description of world based on creator questions]
 Write a description of three individual and significantly differing imagined exhibits about your planet. Take a single object from that world, and make a museum exhibit that shows that artifact in the beginning of its life, present, and possible (add descriptive word) future.
 
 Select an object that is emblematic of larger cultural themes, and write for a 200 word placard about the educational significance of the object.
 
-You can take the approach of 
+You can take the approach of;
 Art
 History
 Culture
 Science
 Flora & Fauna
 
-Describe the way that the world around the museum looks for each of these exhibits?
+2. Describe the way that the world around the museum looks for each of these exhibits?
 
-What are the learning outcomes of this exhibit?
+3. What are the learning outcomes of this exhibit?
 ______________
 
 
