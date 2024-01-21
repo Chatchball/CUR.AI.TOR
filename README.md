@@ -19,7 +19,10 @@ Use this propmt in this repo to produce a exquisite exhibit for your world
 
 /Prompt
 
-1. As if you were from the world of [brief description of world based on creator questions]
+1. As if you were from the world of [NAME OF WORLD], create imagined museum exhibits that deal with:
+
+[Insert the answers to STEP 1: World Questionnaire]
+
 Write a description of three individual and significantly differing imagined exhibits about your planet. Take a single object from that world, and make a museum exhibit that shows that artifact in the beginning of its life, present, and possible [add descriptive word] future.
 
 Select object that is emblematic of larger cultural themes, and write for a 200 word placard about the educational significance of the object.
