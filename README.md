@@ -1,6 +1,6 @@
 Cur.AI.tor is an AI powered curator bot that designs museums about the worlds you create
 
-To use Cur.AI.tor for your world visit > <eden.art> /charater /exhibit_bot
+To use Cur.AI.tor for your world visit > <http://eden.art> /charater /exhibit_bot
 Answer the world builder questions to get started!
 Use the propmt in this repo to produce a exquisite exhibit for your world 
 
