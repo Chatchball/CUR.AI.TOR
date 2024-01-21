@@ -38,3 +38,6 @@ ______________
 
 NOTE DOC:
 <https://docs.google.com/document/d/1QKNwlEO_LF3fqongULF3gEmI5HTzcSEf_kCEtXs20Lc/edit>
+
+VIDEO DEMO:
+<https://drive.google.com/file/d/1r2Jye3ZKa8uUu5OV8CuXGw8TD5PAVABx/view>
