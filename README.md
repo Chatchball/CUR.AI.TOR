@@ -4,6 +4,7 @@ To use Cur.AI.tor for your world visit > eden.art /charater /exhibit_bot
 Use the propmt in this repo to produce a exquisite exhibit for your world 
 
 /prompt
+
 As if you were from the world of [brief description of world based on creator questions]
 Write a description of three individual and significantly differing imagined exhibits about your planet. Take a single object from that world, and make a museum exhibit that shows that artifact in the beginning of its life, present, and possible (add descriptive word) future.
 
