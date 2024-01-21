@@ -34,6 +34,8 @@ Culture
 Science
 Flora & Fauna
 
+This museum exhibit is in a public space within that culture - describe what the world around the museum looks for each of these exhibits.
+
 2. Describe the way that the world around the museum looks for each of these exhibits?
 
 3. What are the learning outcomes of this exhibit?
